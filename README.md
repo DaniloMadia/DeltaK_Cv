@@ -75,7 +75,7 @@ Clear and transparent judgment
 
 ## Bookmarklet (optional)
 
-``javascript:(function(){var t=window.getSelection?window.getSelection().toString():document.getSelection?document.getSelection().toString():'';if(t===''){t=prompt('Paste here the text/post/article to analyze with DeltaK_CV:');}if(t){window.open('https://grok.x.ai/?q=DeltaK_CV%3A%20'+encodeURIComponent(t),'_blank');}})();
+``javascript:(function(){var t=window.getSelection?window.getSelection().toString():document.getSelection?document.getSelection().toString():'';if(t===''){t=prompt('Paste here the text/post/article to analyze with DeltaK_CV:');}if(t){window.open(https://grok.x.ai/?q=DeltaK_CV%3A%20'+encodeURIComponent(t),'_blank');}})();
 
 ## License
 This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) — non-commercial use only.
