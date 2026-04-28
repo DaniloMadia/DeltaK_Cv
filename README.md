@@ -21,26 +21,24 @@ DeltaK_CV is a simple yet powerful tool created for Grok that provides a clear, 
 
 ## 🛠️ How to use it (super easy)
 
-### Method 1 – Fastest (recommended)
-1. Upload **this image** to any Grok chat  
-2. Simply type:  
-   **`DeltaK_CV:`**
-
-Grok will automatically read the image and activate the fact-check.
-
-### Method 2 – Direct text
-In any Grok chat write:
+### Method 1 – Text only (works for everyone)
+In any Grok chat simply write:
 
 DeltaK_CV: [paste the text, link or description of the post/article here]
 
----
+### Method 2 – Even faster with the promotional text
+Copy and paste the text below into any Grok chat (or post it on X):
 
-## 📸 Official Prompt Image
 
-![DeltaK_CV for Grok - Visual Prompt](delta-k-cv-prompt.png)
 
-*(Carica questa immagine nel repository come `delta-k-cv-prompt.png`)*
----
+🚀 DeltaK_CV for Grok – Advanced, transparent and free fact-checker for everyone!
+Real-time verification of X posts, news articles, scientific papers and images (including AI-generated).
+How to use it (super easy): Just type in any Grok chat: DeltaK_CV: + the text / link / image you want to check
+What you get now (new v2.0): ✅ DeltaK_CV Activated Overall Coherence Value (CV): XX/100
+• Quick Breakdown (strengths & weaknesses) • Detailed Analysis (live fact-check) • Differences between initial reading and DeltaK • Final DeltaK Verdict
+Created with Grok • Neutral • Real-time updated Try it now and see the difference! ---
+
+
 
 ## What DeltaK_CV returns (v2.0)
 
@@ -75,10 +73,10 @@ Clear and transparent judgment
 
 ## Bookmarklet (optional)
 
-For even faster use you can install this bookmarklet:
-
 ```javascript
 javascript:(function(){var t=window.getSelection?window.getSelection().toString():document.getSelection?document.getSelection().toString():'';if(t===''){t=prompt('Paste here the text/post/article to analyze with DeltaK_CV:');}if(t){window.open('[https://grok.x.ai/?q=DeltaK_CV%3A%20'+encodeURIComponent(t),'_blank](https://grok.x.ai/?q=DeltaK_CV%3A%20'+encodeURIComponent(t),'_blank)');}})();
+
+
 
 ## License
 
