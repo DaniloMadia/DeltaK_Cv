@@ -40,6 +40,8 @@ Created with Grok • Neutral • Real-time updated Try it now and see the diffe
 
 
 
+---
+
 ## What DeltaK_CV returns (v2.0)
 
 **✅ DeltaK_CV Activated**
@@ -69,26 +71,20 @@ Clear and transparent judgment
 - Completely free and accessible to all Grok users
 - No subscription required
 
----
+
 
 ## Bookmarklet (optional)
 
-```javascript
-javascript:(function(){var t=window.getSelection?window.getSelection().toString():document.getSelection?document.getSelection().toString():'';if(t===''){t=prompt('Paste here the text/post/article to analyze with DeltaK_CV:');}if(t){window.open('[https://grok.x.ai/?q=DeltaK_CV%3A%20'+encodeURIComponent(t),'_blank](https://grok.x.ai/?q=DeltaK_CV%3A%20'+encodeURIComponent(t),'_blank)');}})();
-
-
+``javascript:(function(){var t=window.getSelection?window.getSelection().toString():document.getSelection?document.getSelection().toString():'';if(t===''){t=prompt('Paste here the text/post/article to analyze with DeltaK_CV:');}if(t){window.open('https://grok.x.ai/?q=DeltaK_CV%3A%20'+encodeURIComponent(t),'_blank');}})();
 
 ## License
+This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) — non-commercial use only.
+Full license: creativecommons.org/licenses/by-nc/4.0
 
-This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
-You are free to:
-•  Share and adapt the material
-But only for non-commercial purposes.
-Full license text: creativecommons.org/licenses/by-nc/4.0
-
-Created with ❤️
+## Created with ❤️
 Community project born from collaboration with Grok.
 Want to contribute?
 Open an Issue or Pull Request with ideas, improvements or new examples!
 
-
+## Try it now 👇
+Just type DeltaK_CV: in any Grok chat!
