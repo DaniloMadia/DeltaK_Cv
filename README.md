@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Made for Grok](https://img.shields.io/badge/Made%20for-Grok-00D1FF.svg)](https://grok.x.ai)
-[![Free to Use](https://img.shields.io/badge/Free%20to%20Use-Yes-brightgreen.svg)](https://github.com/yourusername/DeltaK_CV-for-Grok)
+[![Free to Use](https://img.shields.io/badge/Free%20to%20Use-Yes-brightgreen.svg)](https://github.com/danilomadia/DeltaK_CV)
 [![No Subscription](https://img.shields.io/badge/No%20Subscription-Required-green.svg)]()
 [![v2.0](https://img.shields.io/badge/Version-2.0-blue.svg)]()
 
@@ -39,8 +39,7 @@ DeltaK_CV: [paste the text, link or description of the post/article here]
 
 ![DeltaK_CV for Grok - Visual Prompt](delta-k-cv-prompt.png)
 
-*(Upload this image to your repository as `delta-k-cv-prompt.png`)*
-
+*(Carica questa immagine nel repository come `delta-k-cv-prompt.png`)*
 ---
 
 ## What DeltaK_CV returns (v2.0)
